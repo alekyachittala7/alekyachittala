@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sri Aditya Degree College - Registrations 2025</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f7fa;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #003366;
+      color: #fff;
+      padding: 15px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      text-align: center;
+    }
+
+    header img {
+      width: 80px;
+      height: 80px;
+      margin-right: 15px;
+      border-radius: 50%;
+      background: #fff;
+      padding: 5px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.6rem;
+    }
+
+    header p {
+      margin: 5px 0 0;
+      font-size: 0.9rem;
+      font-weight: 300;
+    }
+
+    .container {
+      max-width: 950px;
+      margin: 30px auto;
+      padding: 20px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+      padding: 20px;
+    }
+
+    .card h2 {
+      margin: 0;
+      color: #003366;
+    }
+
+    .links {
+      margin-top: 10px;
+    }
+
+    .links a {
+      display: inline-block;
+      margin: 5px 10px 5px 0;
+      padding: 8px 14px;
+      background: #3498db;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: 0.3s;
+      font-size: 0.9rem;
+    }
+
+    .links a:hover {
+      background: #1d6fa5;
+    }
+
+    .note {
+      background: #fce4e4;
+      color: #c0392b;
+      padding: 15px;
+      border-left: 5px solid #c0392b;
+      border-radius: 8px;
+      margin-top: 20px;
+      font-size: 0.95rem;
+    }
+
+    footer {
+      background: #003366;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+        text-align: center;
+      }
+      header img {
+        margin: 0 0 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <img src="aditya-logo.png" alt="Sri Aditya Degree College Logo">
+    <div>
+      <h1>Sri Aditya Degree College, Bhimavaram</h1>
+      <p>Final Year Student Registrations – 2025</p>
+    </div>
+  </header>
+
+  <!-- Content -->
+  <div class="container">
+
+    <div class="card">
+      <h2>1️⃣ India Skills Competition 2025</h2>
+      <div class="links">
+        <a href="https://naipunyam.ap.gov.in/world-skill-registration/" target="_blank">Registration Link 1</a>
+        <a href="https://www.skillindiadigital.gov.in/account/register?returnUrl=%2Findia-skills-2025" target="_blank">Registration Link 2</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSevW90sSG0Hq9gCUL6Qdj3GXb7ye0UJBX-mp3FvlufN9E9QaA/viewform?usp=pp_url" target="_blank">Google Form</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>2️⃣ Naukri Young Turks 2025</h2>
+      <div class="links">
+        <a href="https://www.placementlelo.in/naukri" target="_blank">Registration</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOP7AuNGLJYPfbzd8bQyJXpaLPSYks7Eeo2h17ojqHZR0SxQ/viewform?usp=pp_url" target="_blank">Google Form</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>3️⃣ Oracle University 2025</h2>
+      <div class="links">
+        <a href="https://education.oracle.com/apssdc" target="_blank">Registration</a>
+        <a href="https://docs.google.com/forms/d/e/
+
+     
